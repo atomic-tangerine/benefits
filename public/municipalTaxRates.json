@@ -1,0 +1,1856 @@
+[
+    {
+      "Municipality": "Akaa",
+      "Income tax percentage": "9,90",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Alajärvi",
+      "Income tax percentage": "9,10",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Alavieska",
+      "Income tax percentage": "9,30",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Alavus",
+      "Income tax percentage": "9,60",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Asikkala",
+      "Income tax percentage": "8,10",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Askola",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Aura",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,30",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Brändö",
+      "Income tax percentage": "17,70",
+      "Ev.lut. church tax percentage": "2,00",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Eckerö",
+      "Income tax percentage": "18,50",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Enonkoski",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,60",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Enontekiö",
+      "Income tax percentage": "8,60",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Espoo",
+      "Income tax percentage": "5,30",
+      "Ev.lut. church tax percentage": "1,00",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Eura",
+      "Income tax percentage": "9,00",
+      "Ev.lut. church tax percentage": "1,45",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Eurajoki",
+      "Income tax percentage": "5,40",
+      "Ev.lut. church tax percentage": "1,60",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Evijärvi",
+      "Income tax percentage": "9,80",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Finström",
+      "Income tax percentage": "19,50",
+      "Ev.lut. church tax percentage": "1,95",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Forssa",
+      "Income tax percentage": "8,20",
+      "Ev.lut. church tax percentage": "1,40",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Föglö",
+      "Income tax percentage": "18,50",
+      "Ev.lut. church tax percentage": "2,00",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Geta",
+      "Income tax percentage": "18,50",
+      "Ev.lut. church tax percentage": "1,95",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Haapajärvi",
+      "Income tax percentage": "10,20",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Haapavesi",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Hailuoto",
+      "Income tax percentage": "7,90",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Halsua",
+      "Income tax percentage": "10,80",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Hamina",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,55",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Hammarland",
+      "Income tax percentage": "18,00",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Hankasalmi",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,95",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Hanko",
+      "Income tax percentage": "9,10",
+      "Ev.lut. church tax percentage": "1,60",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Harjavalta",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Hartola",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Hattula",
+      "Income tax percentage": "8,10",
+      "Ev.lut. church tax percentage": "1,45",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Hausjärvi",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Heinola",
+      "Income tax percentage": "8,20",
+      "Ev.lut. church tax percentage": "1,45",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Heinävesi",
+      "Income tax percentage": "8,80",
+      "Ev.lut. church tax percentage": "1,60",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Helsinki",
+      "Income tax percentage": "5,30",
+      "Ev.lut. church tax percentage": "1,00",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Hirvensalmi",
+      "Income tax percentage": "7,40",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Hollola",
+      "Income tax percentage": "8,30",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Huittinen",
+      "Income tax percentage": "9,00",
+      "Ev.lut. church tax percentage": "1,60",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Humppila",
+      "Income tax percentage": "9,30",
+      "Ev.lut. church tax percentage": "1,85",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Hyrynsalmi",
+      "Income tax percentage": "9,00",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Hyvinkää",
+      "Income tax percentage": "7,60",
+      "Ev.lut. church tax percentage": "1,25",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Hämeenkyrö",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Hämeenlinna",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,30",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Ii",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,50",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Iisalmi",
+      "Income tax percentage": "7,90",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Iitti",
+      "Income tax percentage": "8,60",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Ikaalinen",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,85",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Ilmajoki",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Ilomantsi",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,60",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Imatra",
+      "Income tax percentage": "8,60",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Inari",
+      "Income tax percentage": "6,40",
+      "Ev.lut. church tax percentage": "1,90",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Inkoo",
+      "Income tax percentage": "8,10",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Isojoki",
+      "Income tax percentage": "9,80",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Isokyrö",
+      "Income tax percentage": "9,50",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Janakkala",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Joensuu",
+      "Income tax percentage": "7,90",
+      "Ev.lut. church tax percentage": "1,50",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Jokioinen",
+      "Income tax percentage": "8,70",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Jomala",
+      "Income tax percentage": "16,50",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Joroinen",
+      "Income tax percentage": "8,60",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Joutsa",
+      "Income tax percentage": "9,00",
+      "Ev.lut. church tax percentage": "2,00",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Juuka",
+      "Income tax percentage": "8,50",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "1,85"
+    },
+    {
+      "Municipality": "Juupajoki",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Juva",
+      "Income tax percentage": "8,10",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Jyväskylä",
+      "Income tax percentage": "8,00",
+      "Ev.lut. church tax percentage": "1,45",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Jämijärvi",
+      "Income tax percentage": "9,90",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Jämsä",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,55",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Järvenpää",
+      "Income tax percentage": "7,60",
+      "Ev.lut. church tax percentage": "1,25",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Kaarina",
+      "Income tax percentage": "7,60",
+      "Ev.lut. church tax percentage": "1,20",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Kaavi",
+      "Income tax percentage": "9,80",
+      "Ev.lut. church tax percentage": "1,45",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Kajaani",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,60",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Kalajoki",
+      "Income tax percentage": "8,30",
+      "Ev.lut. church tax percentage": "1,60",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Kangasala",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,35",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Kangasniemi",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Kankaanpää",
+      "Income tax percentage": "9,10",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Kannonkoski",
+      "Income tax percentage": "9,20",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Kannus",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,60",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Karijoki",
+      "Income tax percentage": "9,80",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Karkkila",
+      "Income tax percentage": "8,60",
+      "Ev.lut. church tax percentage": "1,50",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Karstula",
+      "Income tax percentage": "8,80",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Karvia",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Kaskinen",
+      "Income tax percentage": "10,30",
+      "Ev.lut. church tax percentage": "1,85",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Kauhajoki",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Kauhava",
+      "Income tax percentage": "9,10",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Kauniainen",
+      "Income tax percentage": "4,40",
+      "Ev.lut. church tax percentage": "1,00",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Kaustinen",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Keitele",
+      "Income tax percentage": "7,90",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Kemi",
+      "Income tax percentage": "9,60",
+      "Ev.lut. church tax percentage": "1,50",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Kemijärvi",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Keminmaa",
+      "Income tax percentage": "8,60",
+      "Ev.lut. church tax percentage": "1,35",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Kemiönsaari",
+      "Income tax percentage": "7,10",
+      "Ev.lut. church tax percentage": "2,00",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Kempele",
+      "Income tax percentage": "7,90",
+      "Ev.lut. church tax percentage": "1,45",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Kerava",
+      "Income tax percentage": "6,90",
+      "Ev.lut. church tax percentage": "1,25",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Keuruu",
+      "Income tax percentage": "9,10",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Kihniö",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,90",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Kinnula",
+      "Income tax percentage": "9,50",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Kirkkonummi",
+      "Income tax percentage": "7,10",
+      "Ev.lut. church tax percentage": "1,25",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Kitee",
+      "Income tax percentage": "8,10",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Kittilä",
+      "Income tax percentage": "7,60",
+      "Ev.lut. church tax percentage": "1,60",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Kiuruvesi",
+      "Income tax percentage": "9,50",
+      "Ev.lut. church tax percentage": "1,50",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Kivijärvi",
+      "Income tax percentage": "9,10",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Kokemäki",
+      "Income tax percentage": "9,20",
+      "Ev.lut. church tax percentage": "1,85",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Kokkola",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Kolari",
+      "Income tax percentage": "7,90",
+      "Ev.lut. church tax percentage": "1,60",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Konnevesi",
+      "Income tax percentage": "9,80",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Kontiolahti",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,50",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Korsnäs",
+      "Income tax percentage": "9,30",
+      "Ev.lut. church tax percentage": "1,85",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Koski Tl",
+      "Income tax percentage": "7,40",
+      "Ev.lut. church tax percentage": "1,35",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Kotka",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,50",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Kouvola",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,55",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Kristiinankaupunki",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "2,00",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Kruunupyy",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "2,00",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Kuhmo",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Kuhmoinen",
+      "Income tax percentage": "9,10",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Kumlinge",
+      "Income tax percentage": "19,00",
+      "Ev.lut. church tax percentage": "2,00",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Kuopio",
+      "Income tax percentage": "8,10",
+      "Ev.lut. church tax percentage": "1,45",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Kuortane",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,85",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Kurikka",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Kustavi",
+      "Income tax percentage": "5,30",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Kuusamo",
+      "Income tax percentage": "7,40",
+      "Ev.lut. church tax percentage": "1,55",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Kyyjärvi",
+      "Income tax percentage": "9,90",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Kärkölä",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Kärsämäki",
+      "Income tax percentage": "9,50",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Kökar",
+      "Income tax percentage": "19,70",
+      "Ev.lut. church tax percentage": "2,00",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Lahti",
+      "Income tax percentage": "8,10",
+      "Ev.lut. church tax percentage": "1,45",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Laihia",
+      "Income tax percentage": "9,60",
+      "Ev.lut. church tax percentage": "1,50",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Laitila",
+      "Income tax percentage": "8,10",
+      "Ev.lut. church tax percentage": "1,60",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Lapinjärvi",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Lapinlahti",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Lappajärvi",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Lappeenranta",
+      "Income tax percentage": "8,30",
+      "Ev.lut. church tax percentage": "1,40",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Lapua",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Laukaa",
+      "Income tax percentage": "9,90",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Lemi",
+      "Income tax percentage": "9,90",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Lemland",
+      "Income tax percentage": "17,50",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Lempäälä",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,45",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Leppävirta",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,60",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Lestijärvi",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "2,00",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Lieksa",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,55",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Lieto",
+      "Income tax percentage": "6,90",
+      "Ev.lut. church tax percentage": "1,30",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Liminka",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Liperi",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,60",
+      "orthodox churc tax percentage": "1,85"
+    },
+    {
+      "Municipality": "Lohja",
+      "Income tax percentage": "7,90",
+      "Ev.lut. church tax percentage": "1,50",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Loimaa",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,55",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Loppi",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Loviisa",
+      "Income tax percentage": "7,60",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Luhanka",
+      "Income tax percentage": "6,40",
+      "Ev.lut. church tax percentage": "2,00",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Lumijoki",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,95",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Lumparland",
+      "Income tax percentage": "19,50",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Luoto",
+      "Income tax percentage": "8,30",
+      "Ev.lut. church tax percentage": "1,90",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Luumäki",
+      "Income tax percentage": "8,80",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Maalahti",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,90",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Maarianhamina",
+      "Income tax percentage": "17,00",
+      "Ev.lut. church tax percentage": "1,55",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Marttila",
+      "Income tax percentage": "8,50",
+      "Ev.lut. church tax percentage": "1,35",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Masku",
+      "Income tax percentage": "8,10",
+      "Ev.lut. church tax percentage": "1,60",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Merijärvi",
+      "Income tax percentage": "10,00",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Merikarvia",
+      "Income tax percentage": "7,90",
+      "Ev.lut. church tax percentage": "1,90",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Miehikkälä",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,55",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Mikkeli",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,45",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Muhos",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,55",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Multia",
+      "Income tax percentage": "9,80",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Muonio",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Mustasaari",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,85",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Muurame",
+      "Income tax percentage": "6,90",
+      "Ev.lut. church tax percentage": "1,55",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Mynämäki",
+      "Income tax percentage": "9,10",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Myrskylä",
+      "Income tax percentage": "9,90",
+      "Ev.lut. church tax percentage": "1,85",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Mäntsälä",
+      "Income tax percentage": "8,30",
+      "Ev.lut. church tax percentage": "1,25",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Mänttä-Vilppula",
+      "Income tax percentage": "9,90",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Mäntyharju",
+      "Income tax percentage": "8,10",
+      "Ev.lut. church tax percentage": "1,90",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Naantali",
+      "Income tax percentage": "6,40",
+      "Ev.lut. church tax percentage": "1,35",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Nakkila",
+      "Income tax percentage": "9,10",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Nivala",
+      "Income tax percentage": "9,90",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Nokia",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,50",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Nousiainen",
+      "Income tax percentage": "9,10",
+      "Ev.lut. church tax percentage": "1,55",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Nurmes",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "1,85"
+    },
+    {
+      "Municipality": "Nurmijärvi",
+      "Income tax percentage": "7,50",
+      "Ev.lut. church tax percentage": "1,45",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Närpiö",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,50",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Orimattila",
+      "Income tax percentage": "8,70",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Oripää",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Orivesi",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Oulainen",
+      "Income tax percentage": "10,00",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Oulu",
+      "Income tax percentage": "7,90",
+      "Ev.lut. church tax percentage": "1,30",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Outokumpu",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "1,85"
+    },
+    {
+      "Municipality": "Padasjoki",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Paimio",
+      "Income tax percentage": "8,20",
+      "Ev.lut. church tax percentage": "1,45",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Paltamo",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Parainen",
+      "Income tax percentage": "7,90",
+      "Ev.lut. church tax percentage": "1,50",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Parikkala",
+      "Income tax percentage": "9,50",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Parkano",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Pedersören kunta",
+      "Income tax percentage": "9,00",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Pelkosenniemi",
+      "Income tax percentage": "9,10",
+      "Ev.lut. church tax percentage": "1,95",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Pello",
+      "Income tax percentage": "9,00",
+      "Ev.lut. church tax percentage": "1,60",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Perho",
+      "Income tax percentage": "9,30",
+      "Ev.lut. church tax percentage": "1,90",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Pertunmaa",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,90",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Petäjävesi",
+      "Income tax percentage": "9,90",
+      "Ev.lut. church tax percentage": "1,90",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Pieksämäki",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,45",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Pielavesi",
+      "Income tax percentage": "9,10",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Pietarsaari",
+      "Income tax percentage": "9,00",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Pihtipudas",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Pirkkala",
+      "Income tax percentage": "7,90",
+      "Ev.lut. church tax percentage": "1,40",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Polvijärvi",
+      "Income tax percentage": "8,50",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "1,85"
+    },
+    {
+      "Municipality": "Pomarkku",
+      "Income tax percentage": "9,90",
+      "Ev.lut. church tax percentage": "1,50",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Pori",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,50",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Pornainen",
+      "Income tax percentage": "7,90",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Porvoo",
+      "Income tax percentage": "7,10",
+      "Ev.lut. church tax percentage": "1,40",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Posio",
+      "Income tax percentage": "9,10",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Pudasjärvi",
+      "Income tax percentage": "9,00",
+      "Ev.lut. church tax percentage": "1,50",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Pukkila",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,85",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Punkalaidun",
+      "Income tax percentage": "9,00",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Puolanka",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Puumala",
+      "Income tax percentage": "6,60",
+      "Ev.lut. church tax percentage": "1,45",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Pyhtää",
+      "Income tax percentage": "8,10",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Pyhäjoki",
+      "Income tax percentage": "7,90",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Pyhäjärvi",
+      "Income tax percentage": "9,10",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Pyhäntä",
+      "Income tax percentage": "8,00",
+      "Ev.lut. church tax percentage": "1,90",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Pyhäranta",
+      "Income tax percentage": "9,10",
+      "Ev.lut. church tax percentage": "1,90",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Pälkäne",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Pöytyä",
+      "Income tax percentage": "8,60",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Raahe",
+      "Income tax percentage": "8,80",
+      "Ev.lut. church tax percentage": "1,90",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Raasepori",
+      "Income tax percentage": "9,30",
+      "Ev.lut. church tax percentage": "1,50",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Raisio",
+      "Income tax percentage": "7,60",
+      "Ev.lut. church tax percentage": "1,15",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Rantasalmi",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,60",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Ranua",
+      "Income tax percentage": "7,10",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Rauma",
+      "Income tax percentage": "7,90",
+      "Ev.lut. church tax percentage": "1,35",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Rautalampi",
+      "Income tax percentage": "9,90",
+      "Ev.lut. church tax percentage": "1,85",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Rautavaara",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "1,85"
+    },
+    {
+      "Municipality": "Rautjärvi",
+      "Income tax percentage": "8,30",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Reisjärvi",
+      "Income tax percentage": "9,90",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Riihimäki",
+      "Income tax percentage": "7,90",
+      "Ev.lut. church tax percentage": "1,30",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Ristijärvi",
+      "Income tax percentage": "9,30",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Rovaniemi",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,40",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Ruokolahti",
+      "Income tax percentage": "8,60",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Ruovesi",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Rusko",
+      "Income tax percentage": "7,10",
+      "Ev.lut. church tax percentage": "1,45",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Rääkkylä",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Saarijärvi",
+      "Income tax percentage": "9,30",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Salla",
+      "Income tax percentage": "8,60",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Salo",
+      "Income tax percentage": "8,10",
+      "Ev.lut. church tax percentage": "1,35",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Saltvik",
+      "Income tax percentage": "18,50",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Sastamala",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Sauvo",
+      "Income tax percentage": "8,80",
+      "Ev.lut. church tax percentage": "1,45",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Savitaipale",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Savonlinna",
+      "Income tax percentage": "9,30",
+      "Ev.lut. church tax percentage": "1,60",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Savukoski",
+      "Income tax percentage": "9,10",
+      "Ev.lut. church tax percentage": "1,95",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Seinäjoki",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,60",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Sievi",
+      "Income tax percentage": "9,60",
+      "Ev.lut. church tax percentage": "1,85",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Siikainen",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Siikajoki",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,90",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Siikalatva",
+      "Income tax percentage": "9,10",
+      "Ev.lut. church tax percentage": "1,90",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Siilinjärvi",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,25",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Simo",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Sipoo",
+      "Income tax percentage": "6,60",
+      "Ev.lut. church tax percentage": "1,35",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Siuntio",
+      "Income tax percentage": "8,60",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Sodankylä",
+      "Income tax percentage": "8,00",
+      "Ev.lut. church tax percentage": "1,40",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Soini",
+      "Income tax percentage": "9,10",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Somero",
+      "Income tax percentage": "8,20",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Sonkajärvi",
+      "Income tax percentage": "8,60",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Sotkamo",
+      "Income tax percentage": "7,50",
+      "Ev.lut. church tax percentage": "1,60",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Sottunga",
+      "Income tax percentage": "18,00",
+      "Ev.lut. church tax percentage": "2,00",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Sulkava",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,60",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Sund",
+      "Income tax percentage": "19,00",
+      "Ev.lut. church tax percentage": "1,95",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Suomussalmi",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Suonenjoki",
+      "Income tax percentage": "9,10",
+      "Ev.lut. church tax percentage": "1,60",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Sysmä",
+      "Income tax percentage": "6,40",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Säkylä",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Taipalsaari",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Taivalkoski",
+      "Income tax percentage": "7,90",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Taivassalo",
+      "Income tax percentage": "6,90",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Tammela",
+      "Income tax percentage": "8,60",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Tampere",
+      "Income tax percentage": "7,60",
+      "Ev.lut. church tax percentage": "1,25",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Tervo",
+      "Income tax percentage": "9,90",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Tervola",
+      "Income tax percentage": "6,90",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Teuva",
+      "Income tax percentage": "9,70",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Tohmajärvi",
+      "Income tax percentage": "9,10",
+      "Ev.lut. church tax percentage": "1,90",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Toholampi",
+      "Income tax percentage": "9,50",
+      "Ev.lut. church tax percentage": "2,00",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Toivakka",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,95",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Tornio",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,45",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Turku",
+      "Income tax percentage": "6,90",
+      "Ev.lut. church tax percentage": "1,20",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Tuusniemi",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,45",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Tuusula",
+      "Income tax percentage": "7,10",
+      "Ev.lut. church tax percentage": "1,45",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Tyrnävä",
+      "Income tax percentage": "9,90",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Ulvila",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Urjala",
+      "Income tax percentage": "10,30",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Utajärvi",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,85",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Utsjoki",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,90",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Uurainen",
+      "Income tax percentage": "9,00",
+      "Ev.lut. church tax percentage": "1,95",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Uusikaarlepyy",
+      "Income tax percentage": "8,60",
+      "Ev.lut. church tax percentage": "1,90",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Uusikaupunki",
+      "Income tax percentage": "8,60",
+      "Ev.lut. church tax percentage": "1,50",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Vaala",
+      "Income tax percentage": "8,30",
+      "Ev.lut. church tax percentage": "1,85",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Vaasa",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,40",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Valkeakoski",
+      "Income tax percentage": "8,90",
+      "Ev.lut. church tax percentage": "1,60",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Vantaa",
+      "Income tax percentage": "6,40",
+      "Ev.lut. church tax percentage": "1,00",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Varkaus",
+      "Income tax percentage": "8,80",
+      "Ev.lut. church tax percentage": "1,45",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Vehmaa",
+      "Income tax percentage": "9,50",
+      "Ev.lut. church tax percentage": "1,85",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Vesanto",
+      "Income tax percentage": "9,20",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Vesilahti",
+      "Income tax percentage": "9,30",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Veteli",
+      "Income tax percentage": "9,80",
+      "Ev.lut. church tax percentage": "1,90",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Vieremä",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Vihti",
+      "Income tax percentage": "7,80",
+      "Ev.lut. church tax percentage": "1,45",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Viitasaari",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,80",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Vimpeli",
+      "Income tax percentage": "9,60",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Virolahti",
+      "Income tax percentage": "9,90",
+      "Ev.lut. church tax percentage": "1,55",
+      "orthodox churc tax percentage": "1,95"
+    },
+    {
+      "Municipality": "Virrat",
+      "Income tax percentage": "8,60",
+      "Ev.lut. church tax percentage": "1,70",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Vårdö",
+      "Income tax percentage": "19,00",
+      "Ev.lut. church tax percentage": "1,95",
+      "orthodox churc tax percentage": "1,75"
+    },
+    {
+      "Municipality": "Vöyri",
+      "Income tax percentage": "9,20",
+      "Ev.lut. church tax percentage": "1,95",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Ylitornio",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,50",
+      "orthodox churc tax percentage": "2,25"
+    },
+    {
+      "Municipality": "Ylivieska",
+      "Income tax percentage": "10,30",
+      "Ev.lut. church tax percentage": "1,75",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Ylöjärvi",
+      "Income tax percentage": "8,40",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Ypäjä",
+      "Income tax percentage": "9,30",
+      "Ev.lut. church tax percentage": "1,90",
+      "orthodox churc tax percentage": "1,80"
+    },
+    {
+      "Municipality": "Ähtäri",
+      "Income tax percentage": "10,10",
+      "Ev.lut. church tax percentage": "1,65",
+      "orthodox churc tax percentage": "2,00"
+    },
+    {
+      "Municipality": "Äänekoski",
+      "Income tax percentage": "9,40",
+      "Ev.lut. church tax percentage": "1,60",
+      "orthodox churc tax percentage": "1,95"
+    }
+  ]

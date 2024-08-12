@@ -1,0 +1,73 @@
+{
+    "Group1": {
+        "1_person": 715,
+        "2_persons": 895,
+        "3_persons": 1023,
+        "4_persons": 1122,
+        "additional_person": 122,
+        "municipalities": [
+            "Helsinki",
+            "Espoo",
+            "Kauniainen",
+            "Vantaa"
+        ]
+    },
+    "Group2": {
+        "1_person": 628,
+        "2_persons": 785,
+        "3_persons": 897,
+        "4_persons": 986,
+        "additional_person": 105,
+        "municipalities": [
+            "Hyvinkää",
+            "Järvenpää",
+            "Kerava",
+            "Kirkkonummi",
+            "Nurmijärvi",
+            "Tuusula",
+            "Vihti",
+            "Tampere",
+            "Nokia",
+            "Ylöjärvi",
+            "Kangasala",
+            "Lempäälä",
+            "Pirkkala"
+        ]
+    },
+    "Group3": {
+        "1_person": 572,
+        "2_persons": 716,
+        "3_persons": 826,
+        "4_persons": 917,
+        "additional_person": 98,
+        "municipalities": [
+            "Hämeenlinna",
+            "Lahti",
+            "Mäntsälä",
+            "Porvoo",
+            "Loviisa",
+            "Kouvola",
+            "Kotka",
+            "Lappeenranta",
+            "Imatra",
+            "Mikkeli",
+            "Savonlinna",
+            "Joensuu",
+            "Kuopio",
+            "Iisalmi",
+            "Varkaus",
+            "Jyväskylä",
+            "Jämsä",
+            "Orivesi",
+            "Sastamala",
+            "Pori",
+            "Rauma",
+            "Turku",
+            "Kaarina",
+            "Raisio",
+            "Naantali",
+            "Oulu",
+            "Rovaniemi"
+        ]
+    }
+}

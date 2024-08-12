@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Finnish Benefits Calculator</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <div class="container">
+        <h1>Finnish Benefits Calculator</h1>
+        <form id="benefitsForm">
+            <!-- Income Details Section -->
+            <fieldset>
+                <legend>Income Details</legend>
+                <label for="incomeSalary">Monthly Salary Income (€):</label>
+                <input type="number" id="incomeSalary" name="incomeSalary" required>
+                
+                <label for="incomeOther">Other Monthly Income (€):</label>
+                <input type="number" id="incomeOther" name="incomeOther" required>
+            </fieldset>
+            
+            <!-- Housing and Family Details Section -->
+            <fieldset>
+                <legend>Housing and Family Details</legend>
+                <label for="rent">Monthly Rent (€):</label>
+                <input type="number" id="rent" name="rent" required>
+                
+                <label for="adults">Number of Adults:</label>
+                <input type="number" id="adults" name="adults" required>
+
+                <label for="children">Number of Children:</label>
+                <input type="number" id="children" name="children" required>
+                
+                <label for="isSingleParent">Are you a single parent?</label>
+                <input type="checkbox" id="isSingleParent" name="isSingleParent">
+                
+                <label for="municipality">Municipality:</label>
+                <select id="municipality" name="municipality" required>
+                    <!-- Options will be populated by JavaScript -->
+                </select>
+            </fieldset>
+            
+            <!-- Church Affiliation Section -->
+            <fieldset>
+                <legend>Church Affiliation</legend>
+                <label for="church">Church:</label>
+                <select id="church" name="church" required>
+                    <option value="None">None</option>
+                    <option value="Ev.lut. Church">Ev.lut. Church</option>
+                    <option value="Orthodox Church">Orthodox Church</option>
+                </select>
+            </fieldset>
+            
+            <button type="button">Calculate Benefits</button>
+        </form>
+
+        <div id="result" class="result-card"></div>
+    </div>
+
+    <template id="result-template">
+        <div class="result-section">
+            <h2>Estimated Benefits</h2>
+            <div class="result-content">
+                <h3>Housing Allowance Calculation</h3>
+                <p id="housingAllowanceFormula"></p>
+                <p id="housingAllowanceNumbers"></p>
+                <h4>General Housing Allowance</h4>
+                <p>Acceptable Rent: €<span id="acceptableRent"></span></p>
+                <p>Deductible Income: €<span id="deductibleIncome"></span></p>
+                <p>Basic Deductible: €<span id="basicDeductible"></span></p>
+                <p>Calculated Housing Allowance: €<span id="housingAllowance"></span></p>
+            </div>
+        </div>
+
+        <div class="result-section">
+            <h3>Basic Unemployment Allowance Calculation</h3>
+            <p id="basicUnemploymentAllowanceFormula"></p>
+            <p id="basicUnemploymentAllowanceNumbers"></p>
+            <h4>Basic Unemployment Allowance</h4>
+            <p>Basic Unemployment Allowance: €<span id="basicUnemploymentAllowance"></span></p>
+        </div>
+
+        <div class="result-section">
+            <h3>Total Benefits</h3>
+            <p>General Housing Allowance: €<span id="housingAllowanceTotal"></span></p>
+            <p>Basic Unemployment Allowance: €<span id="basicUnemploymentAllowanceTotal"></span></p>
+            <p>Total Benefits: €<span id="totalBenefits"></span></p>
+        </div>
+
+        <div class="result-section">
+            <h3>Net Income After Taxes</h3>
+            <p>Net Income: €<span id="netIncome"></span></p>
+            <h4>Net Income Calculation Details</h4>
+            <p>Gross Income: €<span id="grossIncome"></span></p>
+            <p>Earned Income Deduction: €<span id="earnedIncomeDeduction"></span></p>
+            <p>Taxable Income after Deduction: €<span id="taxableIncome"></span></p>
+            <p>Municipal Tax Rate: <span id="municipalTaxRate"></span>%</p>
+            <p>Church Tax Rate: <span id="churchTaxRate"></span>%</p>
+            <p>Social Security Rate: 7%</p>
+        </div>
+    </template>
+    
+    <script type="module" src="main.js"></script>
+</body>
+</html>

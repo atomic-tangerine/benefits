@@ -1,0 +1,23 @@
+{
+    "Category1": {
+        "1_person": 563,
+        "2_persons": 808,
+        "3_persons": 1019,
+        "4_persons": 1188,
+        "additional_person": 148
+    },
+    "Category2": {
+        "1_person": 447,
+        "2_persons": 652,
+        "3_persons": 828,
+        "4_persons": 981,
+        "additional_person": 134
+    },
+    "Category3": {
+        "1_person": 394,
+        "2_persons": 574,
+        "3_persons": 734,
+        "4_persons": 875,
+        "additional_person": 129
+    }
+}

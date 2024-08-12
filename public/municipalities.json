@@ -1,0 +1,43 @@
+{
+    "Category1": [
+        "Helsinki",
+        "Espoo",
+        "Kauniainen",
+        "Vantaa"
+    ],
+    "Category2": [
+        "Hyvinkää",
+        "Hämeenlinna",
+        "Joensuu",
+        "Jyväskylä",
+        "Järvenpää",
+        "Kajaani",
+        "Kerava",
+        "Kirkkonummi",
+        "Kouvola",
+        "Kuopio",
+        "Lahti",
+        "Lappeenranta",
+        "Lohja",
+        "Mikkeli",
+        "Nokia",
+        "Nurmijärvi",
+        "Oulu",
+        "Pori",
+        "Porvoo",
+        "Raisio",
+        "Riihimäki",
+        "Rovaniemi",
+        "Seinäjoki",
+        "Sipoo",
+        "Siuntio",
+        "Tampere",
+        "Turku",
+        "Tuusula",
+        "Vaasa",
+        "Vihti"
+    ],
+    "Category3": [
+        "Other municipalities"
+    ]
+}
